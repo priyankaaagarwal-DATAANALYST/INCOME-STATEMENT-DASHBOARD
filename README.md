@@ -74,4 +74,4 @@ Reviewing traditional, static income statements makes it difficult for executive
 ### 🖼️ Screenshots & Demos
 
 #### Main Dashboard Interface
-!
+![Dashboard Preview](https://github.com/priyankaaagarwal-DATAANALYST/PhonePe-PowerBI-Dashboard/blob/main/Dashboard%20Overview.png)
